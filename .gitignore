@@ -1,0 +1,12 @@
+# Ignore dataset folder
+PlantVillage/
+Training/PlantVillage
+Training/.ipynb_checkpoints
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+
